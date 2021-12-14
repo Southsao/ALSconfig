@@ -1,7 +1,3 @@
-#PornEmby
-USER-AGENT,*pornemby*
-USER-AGENT,pornemby*
-DOMAIN,pornemby.club
-DOMAIN-KEYWORD,pornemby.club
+# 内容：pornemby
+# 数量：1条
 DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,ipaddress.com
