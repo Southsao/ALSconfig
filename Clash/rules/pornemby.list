@@ -1,4 +1,6 @@
 #PornEmby
+USER-AGENT,*pornemby*
+USER-AGENT,pornemby*
 DOMAIN,pornemby.club
 DOMAIN-KEYWORD,pornemby.club
 DOMAIN-SUFFIX,pornemby.club
